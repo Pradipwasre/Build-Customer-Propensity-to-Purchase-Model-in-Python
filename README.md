@@ -5,3 +5,5 @@ Our client is an early-stage e-commerce company selling various products from da
 To increase the number of purchases, the business is planning to send discounts or coupons to user to motivate them to buy. But since it is an early-stage startup, they have only limited funds for this discountcampaign. So, they have reached out to us seeking our help in building a model that would predict the purchase probability of each user in buying a product.
 
 We will be making use of propensity modelling for this. Propensity modeling is a set of approches to building predictive models to forecast the behavors of a target audience by analyzing their past behaviors. That is to say, propensity models help identify the likeihood of someone performing a certain action. We can then use this likelihood or probability score to create personalized targeting campaigns for the users thus reducing our total cost (targeting only a small set of users) and increasing out ROI.
+
+Project Work on : 18/08/23
