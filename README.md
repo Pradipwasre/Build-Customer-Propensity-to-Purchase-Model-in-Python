@@ -9,7 +9,6 @@ To install the dependencies run:
 ```
 pip install -r requirements.txt
 ```
-
 # Data description
  We have received the data from an e-commerce company which consists of nine features - 
     User_id(Unique identifier for each user),
