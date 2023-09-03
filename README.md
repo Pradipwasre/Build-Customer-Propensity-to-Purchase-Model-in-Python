@@ -22,10 +22,8 @@ pip install -r requirements.txt
     Total Price(Total order price (Quantity X Rate))
 
 This data is present in the data folder
-
 # To run the modular code
 
 1) Change the file paths in the config.yaml file as per your directory
 2) Change the file path of config.yaml file in model.py file and engine.py file
 3) Run the engine.py file
-
