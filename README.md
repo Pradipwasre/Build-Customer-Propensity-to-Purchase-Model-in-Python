@@ -5,7 +5,7 @@ Our Client is an early-stage e-commerce company selling various products from da
 To increase the number of purchases, the business is planning to send discounts or coupons to users to motivate them to buy. But since it is an early-stage startup, they have only limited funds for this discount campaign. So, they have reached out to us seeking our help in building a model that would predict the purchase probability of each user in buying a product. We will be making use of propensity modeling for this.
 
 
-To install the dependencies run:
+To install the dependencies run :
 ```
 pip install -r requirements.txt
 ```
